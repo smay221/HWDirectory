@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PointTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-24T16:44:56" hostname="LAPTOP-T56RBEM1" time="0.045">
+  <properties/>
+  <testcase name="NineTest()" classname="PointTest" time="0.045"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
